@@ -1,12 +1,13 @@
-**Descrição da Tarefa:
-**
+Descrição da Tarefa:
+
 Nesta atividade, o objetivo é desenvolver diversas classes em Java, cada uma com funcionalidades diferentes, com foco em prática de conceitos fundamentais de programação, como entrada de dados, cálculos, loops, condicionais e interação com o usuário.
 
 O projeto deve ser enviado através de um repositório no GitHub, incluindo código-fonte e documentação detalhada.
 
 
-**Tarefas a serem desenvolvidas:
-**
+
+Tarefas a serem desenvolvidas:
+
 Calculadora de Desconto
 
 Utilizar a classe Scanner para receber:
